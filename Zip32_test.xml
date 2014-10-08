@@ -1,0 +1,30 @@
+<NewDataSet>
+  <Zip32>
+    <Zip5>10058</Zip5>
+    <City>臺北市</City>
+    <Area>中正區</Area>
+    <Road>八德路１段</Road>
+    <Scope>全</Scope>
+  </Zip32>
+  <Zip32>
+    <Zip5>10079</Zip5>
+    <City>臺北市</City>
+    <Area>中正區</Area>
+    <Road>三元街</Road>
+    <Scope>單全</Scope>
+  </Zip32>
+  <Zip32>
+    <Zip5>10070</Zip5>
+    <City>臺北市</City>
+    <Area>中正區</Area>
+    <Road>三元街</Road>
+    <Scope>雙  48號以下</Scope>
+  </Zip32>
+  <Zip32>
+    <Zip5>10079</Zip5>
+    <City>臺北市</City>
+    <Area>中正區</Area>
+    <Road>三元街</Road>
+    <Scope>雙  50號以上</Scope>
+  </Zip32>
+</NewDataSet>
